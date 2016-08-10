@@ -1,0 +1,8 @@
+D:\MyFiles\EmailTest\EmailTest\bin\Debug\EmailTest.exe.config
+D:\MyFiles\EmailTest\EmailTest\bin\Debug\EmailTest.exe
+D:\MyFiles\EmailTest\EmailTest\bin\Debug\EmailTest.pdb
+D:\MyFiles\EmailTest\EmailTest\obj\Debug\EmailTest.Main.resources
+D:\MyFiles\EmailTest\EmailTest\obj\Debug\EmailTest.Properties.Resources.resources
+D:\MyFiles\EmailTest\EmailTest\obj\Debug\EmailTest.csproj.GenerateResource.Cache
+D:\MyFiles\EmailTest\EmailTest\obj\Debug\EmailTest.exe
+D:\MyFiles\EmailTest\EmailTest\obj\Debug\EmailTest.pdb
